@@ -14,7 +14,7 @@ https://redlinx.net.au/index.php/shop/21/8/wireless-m2m-iot-products/m2m-sensors
 https://redlinx.net.au/index.php/shop/20/8/wireless-m2m-iot-products/m2m-sensors/lynx-bee-sigfox-module-rcz4-ufl-detail
 
 BEE Module User Manual:
-Please request from support@redlinx.net.au
+Please request from support (at) redlinx.net.au
 
 Refer to LYNXBeeSigfox.h for a declaration of Private and Public functions to be used in code base.
 
