@@ -1,5 +1,10 @@
 # LYNX-BEE-Sigfox-Arduino-Library
 
+
+Contributors:
+Sean van der Walt (https://github.com/svdwalt007)
+Andrei Hawke (TBC)
+
 Created LYNX BEE Sigfox module library for Arduino.
 
 Tested on Libelium Waspmote for RCZ4 (ANZ).
