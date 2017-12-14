@@ -3,7 +3,7 @@
 
 Contributors:
 Sean van der Walt (https://github.com/svdwalt007)
-Andrei Hawke (TBC)
+Andrei Hawke (https://github.com/ahaw021)
 
 Created LYNX BEE Sigfox module library for Arduino.
 
